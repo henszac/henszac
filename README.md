@@ -8,7 +8,8 @@
 
 📫 How to reach me: **contact@henszac.com**
 
-⚡ Fun fact: ⚡ Fun fact: I once set an alarm to remind myself to take breaks from work, but I forgot to set one for when to stop breaking... I ended up taking a full day off without realizing it!
+⚡ Fun fact: I set an alarm to wake me up but I forgot to set it to ring.
+
 <!---
 henszac/henszac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
