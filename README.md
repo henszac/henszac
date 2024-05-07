@@ -9,7 +9,7 @@
 📫 How to reach me: **https://t.me/henszac** or 
                    **contact@henszac.com**
 
-⚡ Fun fact: I set an alarm to wake me up but I forgot to set it to ring.
+⚡ Fun fact: I coded an alarm to wake me up but I forgot to code the ring sound.
 
 <!---
 henszac/henszac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
