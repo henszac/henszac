@@ -6,7 +6,8 @@
 
 🤝 I am keen to collaborate with like-minded professionals who are committed to developing and commercializing proprietary software products. By combining our skills and expertise, we can create exceptional software that stands out in the market.
 
-📫 How to reach me: **contact@henszac.com**
+📫 How to reach me: **https://t.me/henszac** or 
+                   **contact@henszac.com**
 
 ⚡ Fun fact: I set an alarm to wake me up but I forgot to set it to ring.
 
